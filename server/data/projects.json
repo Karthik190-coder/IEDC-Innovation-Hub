@@ -1,0 +1,73 @@
+[
+  {
+    "id": 1,
+    "title": "NeuroLearn AI",
+    "domain": "AI",
+    "description": "An adaptive learning platform that uses machine learning to personalize educational content for each student's learning style and pace.",
+    "teamSize": 4,
+    "teamLead": "Priya Sharma",
+    "status": "Prototype",
+    "votes": 53
+  },
+  {
+    "id": 2,
+    "title": "FinSight",
+    "domain": "FinTech",
+    "description": "AI-powered personal finance assistant that provides real-time spending insights, automated budgeting, and investment recommendations.",
+    "teamSize": 3,
+    "teamLead": "Rahul Patel",
+    "status": "Seed Funded",
+    "votes": 68
+  },
+  {
+    "id": 3,
+    "title": "MediConnect",
+    "domain": "HealthTech",
+    "description": "Telemedicine platform connecting rural patients with specialist doctors through AI-assisted diagnosis and video consultations.",
+    "teamSize": 5,
+    "teamLead": "Dr. Anjali Mehta",
+    "status": "Prototype",
+    "votes": 53
+  },
+  {
+    "id": 4,
+    "title": "EcoTrack IoT",
+    "domain": "IoT",
+    "description": "Smart environmental monitoring system using IoT sensors to track air quality, water purity, and soil health in real-time.",
+    "teamSize": 4,
+    "teamLead": "Arjun Kumar",
+    "status": "Ideation",
+    "votes": 28
+  },
+  {
+    "id": 5,
+    "title": "GreenCampus",
+    "domain": "Sustainability",
+    "description": "Campus-wide sustainability initiative with smart energy management, waste tracking, and carbon footprint reduction gamification.",
+    "teamSize": 6,
+    "teamLead": "Sneha Reddy",
+    "status": "Prototype",
+    "votes": 39
+  },
+  {
+    "id": 6,
+    "title": "EduBridge",
+    "domain": "EdTech",
+    "description": "Peer-to-peer learning marketplace connecting students with mentors for personalized tutoring, skill sharing, and career guidance.",
+    "teamSize": 3,
+    "teamLead": "Vikram Singh",
+    "status": "Ideation",
+    "votes": 31
+  },
+  {
+    "id": 7,
+    "title": "c",
+    "domain": "AI",
+    "description": "c",
+    "teamSize": 1,
+    "teamLead": "c",
+    "status": "Ideation",
+    "votes": 1,
+    "pitchDeckLink": ""
+  }
+]
