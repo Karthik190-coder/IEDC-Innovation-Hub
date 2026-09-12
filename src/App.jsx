@@ -5,7 +5,7 @@ import ProjectGrid from './components/ProjectGrid';
 import SearchFilter from './components/SearchFilter';
 import SubmissionForm from './components/SubmissionForm';
 
-const API_BASE = '/api/projects';
+const API_BASE = 'https://iedc-innovation-hub.onrender.com/api/projects';
 
 const PREDEFINED_CATEGORIES = ['AI', 'EdTech', 'FinTech', 'HealthTech', 'Sustainability', 'IoT'];
 
